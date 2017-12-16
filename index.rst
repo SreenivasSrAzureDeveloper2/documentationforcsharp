@@ -50,4 +50,4 @@ sure your desired web app is available :doc:`online </Option/justlogic>`
    
    
    cnc/lead
-   Option/account
+   cnc/account
