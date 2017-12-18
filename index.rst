@@ -36,18 +36,16 @@ sure your desired web app is available :doc:`online </Option/justlogic>`
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: Option
-   :class: tight-table
-   
-   
-   Option/justlogic
-   Option/justcode
+   :caption: adc
+      
+   adc/service
+   adc/servicegroup
 
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: cnc
-   
+   :caption: cnc   
    
    cnc/lead
+   cnd/account
    
