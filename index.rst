@@ -36,16 +36,16 @@ sure your desired web app is available :doc:`online </Option/justlogic>`
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: adc
+   :caption: AdminCursor
       
-   adc/service
-   adc/servicegroup
+   AdminCursor/service
+   AdminCursor/servicegroup
 
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: cnc   
+   :caption: ClientCursor   
    
-   cnc/lead
-   cnd/account
+   ClientCursor/lead
+   ClientCursor/account
    
