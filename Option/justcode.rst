@@ -21,16 +21,16 @@ colum2 row2  data2 colum2 row2  data2 table  Table
 +-----+------+----+
 |colu2 row2  data2|
 +-----+------+----+
-Key Goals
+
+
+Options
+-------
+* Mobile Apps 99%Key Goals
 ---------
 #. Mobile Apps 99%
 #. Web Development 95%
 #. Marketing 90%
 #. Consulting 90%
-
-Options
--------
-* Mobile Apps 99%
 * Web Development 95%
 * Marketing 90%
 * Consulting 90%
