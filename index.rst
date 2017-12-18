@@ -36,7 +36,7 @@ sure your desired web app is available :doc:`online </Option/justlogic>`
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: AdminCursor
+   :caption: Admin Cursor
       
    AdminCursor/service
    AdminCursor/servicegroup
@@ -44,8 +44,9 @@ sure your desired web app is available :doc:`online </Option/justlogic>`
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: ClientCursor   
+   :caption: Client Cursor   
    
    ClientCursor/lead
    ClientCursor/account
+   ClientCursor/contact
    
