@@ -38,15 +38,15 @@ sure your desired web app is available :doc:`online </Option/justlogic>`
    :hidden:
    :caption: Admin Cursor
       
-   AdminCursor/service
-   AdminCursor/servicegroup
+   adc/service
+   adc/servicegroup
 
 .. toctree::
    :maxdepth: 4
    :hidden:
    :caption: Client Cursor   
    
-   ClientCursor/lead
-   ClientCursor/account
-   ClientCursor/contact
+   cnc/lead
+   cnc/account
+   cnc/contact
    
